@@ -1,0 +1,64 @@
+/*****					*****\
+
+	  HOW TO PLAY DRAGO'S INFERNO
+
+\*****					*****/
+
+------------------------------
+System Requirements as tested:
+------------------------------
+
+- Make sure you are on a Windows machine running Windows XP, Windows Vista, or Windows 7 (these are the tested platforms).
+
+- Make sure the latest verion of Java is installed on your machine: Java 1.7.XX
+
+------------------
+Playing the Game:
+------------------
+
+1. Make sure the project submission zip file "Drago's Inferno - Final Project Submission" is unzipped on your machine.  The game will not run unless the contents have been unzipped.
+
+3. Open the folder "Drago's Inferno - Iteration 5 - Source Code"
+
+4. Browse down the the Executable Jar File "Drago's Inferno - The Game - Iteration 5" and double-click to start the application
+
+5. A window will open with the game and you're ready to play!
+
+---------Please note is important that you do NOT change any of the objects in the folder, this includes deleting, adding, or modifying files----------
+
+---------
+Controls:
+---------
+
+- Move Drago with the arrow keys on your keyboard 'Up', 'Down', 'Left', 'Right'
+- Shoot fireballs with the 'Z', 'X', 'C', or 'V' keys
+- Press 'F' to speed up Drago's movement
+- Press 'S' to slow down Drago's movement
+- 'F1' displays AI lines used for enemy movement
+- 'F2' displays the partitions that construct the map
+- 'F3' displays color-coded portals which decide which areas are traversable by Drago and enemies 
+
+------
+Goals:
+------
+
+- At this point, Drago's Inferno is strictly to have fun
+- Explore the map
+- Destroy enemies
+- Pick up items
+- Burn down trees
+
+-------------------------------
+Project Members:
+Little Endian Entertainment LLC
+-------------------------------
+Ryan Alan
+Elizabeth Collins
+Mike Enriquez
+Scott Hoge
+Bryan Tanner
+
+---------------
+Special Thanks:
+---------------
+William Thrasher
